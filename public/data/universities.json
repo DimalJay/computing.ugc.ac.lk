@@ -46,7 +46,6 @@
     "established_under": "University Grants Commission",
     "abbreviation": "KLN",
     "members": [
-      "Head, Dept. of Computer Systems Engineering, Faculty of Computing & Technology",
       "Representative for the Dean, Faculty of Science",
       "Dean, Faculty of Computing & Technology"
     ],
@@ -62,7 +61,7 @@
     "abbreviation": "MRT",
     "members": [
       "Dean, Faculty of Information Technology",
-      "Head, Dept. of Computer Science & Engineering"
+      "Head, Dept. of Computer Science & Engineering, Faculty of Engineering"
     ],
     "url": "http://www.mrt.ac.lk/",
     "uni_code": "G"
@@ -75,7 +74,7 @@
     "established_under": "University Grants Commission",
     "abbreviation": "UJA",
     "members": [
-      "Head, Dept. of Computer Science"
+      "Head, Dept. of Computer Science, Faculty of Science"
     ],
     "url": "http://www.jfn.ac.lk/",
     "uni_code": "E"
@@ -88,7 +87,7 @@
     "established_under": "University Grants Commission",
     "abbreviation": "RUH",
     "members": [
-      "Head, Dept. of Computer Science"
+      "Head, Dept. of Computer Science, Faculty of Science"
     ],
     "url": "http://www.ruh.ac.lk/",
     "uni_code": "F"
@@ -101,7 +100,7 @@
     "established_under": "University Grants Commission",
     "abbreviation": "OUSL",
     "members": [
-      "Representative/ Head, Dept. of Electrical & Computer Engineering"
+      "Representative/ Head, Dept. of Electrical & Computer Engineering, Faculty of Engineering Technology"
     ],
     "url": "http://www.ou.ac.lk/",
     "uni_code": null
